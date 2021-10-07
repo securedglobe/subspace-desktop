@@ -60,3 +60,7 @@ yarn tauri --help
 
 ### Contribute to development
 Review the [ARCHITECTURE.md](./ARCHITECTURE.md) document for an overview of the application design.
+
+## Unit tests
+
+`Tests/subspace.test.js` checks subspace-desktop package identity. Run `node Tests/subspace.test.js`.
